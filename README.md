@@ -31,13 +31,42 @@ A powerful, privacy-focused, hybrid AI research suite. Echidna combines the spee
 
 ---
 
-## ⚙️ Prerequisites
+## ⚙️ Installation
 
-Before you begin, ensure you have the following installed:
+### 1. Clone the repository
 
-1. **Python 3.10+**
-2. **Ollama:** Must be installed and running on your system. 
-   Once Ollama is installed, open your terminal and download the required local models:
-   ```bash
-   ollama pull gemma2:2b
-   ollama pull nomic-embed-text
+```bash
+git clone https://github.com/your-username/ml-pipeline.git
+cd ml-pipeline
+```
+
+### 2. Create a virtual environment (recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate        # Linux/macOS
+venv\Scripts\activate           # Windows
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+**`requirements.txt`:**
+```
+gradio>=5.0.0
+python-dotenv
+langchain
+langchain-ollama
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+tavily-python
+faiss-cpu
+pydantic
+```
+
+---
+
