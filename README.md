@@ -2,6 +2,13 @@
 
 A powerful, privacy-focused, hybrid AI research suite. Echidna combines the speed and privacy of local Large Language Models (via Ollama) with the vast knowledge of cloud APIs (Google Gemini) to create a comprehensive research, writing, and verification environment.
 
+![Dashboard Screenshot](https://github.com/HilalAhmad01/Echidna-Research-Agent/blob/main/gemma%20research.png)
+
+![Dashboard Screenshot](https://github.com/HilalAhmad01/Echidna-Research-Agent/blob/main/gemini_factchecker.png)
+
+![Dashboard Screenshot](https://github.com/HilalAhmad01/Echidna-Research-Agent/blob/main/Paraphraser.png)
+
+
 ---
 
 ## 🚀 Features
