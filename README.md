@@ -36,8 +36,8 @@ A powerful, privacy-focused, hybrid AI research suite. Echidna combines the spee
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ml-pipeline.git
-cd ml-pipeline
+git clone https://github.com/HilalAhmad01/Echidna-Research-Agent
+cd echidna-ai-research
 ```
 
 ### 2. Create a virtual environment (recommended)
